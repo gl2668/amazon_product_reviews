@@ -1,5 +1,10 @@
 # Analysis of Amazon product reviews with NLP techniques
 
+### Preview
+- [Python HTML](http://htmlpreview.github.io/?https://raw.githubusercontent.com/gl2668/amazon_product_reviews/master/NLP_Final_Project.html)
+- [Python Notebook](https://github.com/gl2668/amazon_product_reviews/blob/master/final_project.ipynb)
+- [Presentation Slides](https://github.com/gl2668/amazon_product_reviews/blob/master/NLP_Final_Project.pdf)
+
 ### Scope
 - Text Pre-Processing
 - Applying Sentiment Analysis to product reviews (using AFINN lexicon)
