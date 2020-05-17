@@ -10,5 +10,5 @@
 - Using LDA for Topic-Modelling (Not Effective)
 
 ### Data
-- Data from [Jianmo No]('https://nijianmo.github.io/amazon/index.html')
+- Data from [Jianmo No](https://nijianmo.github.io/amazon/index.html)
 - 
